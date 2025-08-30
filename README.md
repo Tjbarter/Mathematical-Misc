@@ -1,5 +1,5 @@
 # Mathematical-Misc
-Multiple scripts that I have written to express mathematical ideas
+Multiple scripts that I have written to explore mathematical and stochastic ideas that I find interesting
 
 # Light Bulb Optimisation Game
 In the game, a light bulb's switch on time is normally random with a mean of 5 seconds and standard deviation of 1 second. You have one hour to make as many checks on the light bulb as you would like. 
