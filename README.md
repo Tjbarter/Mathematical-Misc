@@ -15,7 +15,9 @@ The optimisation problem is to find the optimal amount of time to wait before ch
 <img width="931" height="587" alt="image" src="https://github.com/user-attachments/assets/084f31a8-6e98-4922-befd-2b4c58c3657c" />
 
 # Martingale Strategy Experimentation
-Investigated the Martingale betting strategy by simulating the stochastic environment of 50/50 betting games, to better understand random processes. Experimented with changing initial balance and measuring how the maximum profit point changes.
+Investigated the Martingale betting strategy by simulating the stochastic environment of 50/50 betting games, to better understand random processes.
+
+Experimented with changing initial balance and measuring how the maximum profit point changes.
 
 <img width="1080" height="680" alt="image" src="https://github.com/user-attachments/assets/cde4e81d-133f-4c09-9151-092aa895e54e" />
 
