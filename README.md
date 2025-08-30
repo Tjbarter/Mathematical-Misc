@@ -3,6 +3,7 @@ Multiple scripts that I have written to explore mathematical and stochastic idea
 
 # Light Bulb Optimisation Game
 In the game, a light bulb's switch on time is normally random with a mean of 5 seconds and standard deviation of 1 second.
+
 You have one hour to make as many checks on the light bulb as you would like.
 Each check marks the end of that run and the next run begins.
 If the light bulb is on at time of checking the on/off status of the light bulb, then you win one point.
