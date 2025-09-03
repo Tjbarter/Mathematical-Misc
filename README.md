@@ -22,6 +22,10 @@ Experimented with changing initial balance and measuring how the maximum profit 
 <img width="1080" height="680" alt="image" src="https://github.com/user-attachments/assets/cde4e81d-133f-4c09-9151-092aa895e54e" />
 
 # NDI Visualisation
-I wrote a short script to visualise and better understand the Normalised Difference Index equation, which I specifically used to convert financial sentiment values in the format of $p$(negative), $p$(neutral), and $p$(positive) into a float between -1 and 1.
+I wrote a short script to visualise and better understand the Normalised Difference Index equation
+
+\frac{$p%(positive) - $p%(negative)}{$p%(positive) + $p%(negative)}, 
+
+which I specifically used to convert financial sentiment values in the format of $p$(negative), $p$(neutral), and $p$(positive) into a float between -1 and 1.
 
 <img width="1085" height="740" alt="image" src="https://github.com/user-attachments/assets/00d9a10d-2f17-423d-b8fb-95bbd6625243" />
