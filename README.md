@@ -1,5 +1,5 @@
 # Mathematical-Misc
-Multiple scripts that I have written to explore mathematical and stochastic ideas that I find interesting
+Multiple scripts that I have written to explore mathematical and stochastic ideas that I find interesting:
 
 # Light Bulb Optimisation Game
 In the game, a light bulb's switch on time is normally random with a mean of 5 seconds and standard deviation of 1 second.
